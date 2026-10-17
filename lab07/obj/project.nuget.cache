@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+z0WzaKOOZQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KHOA\\Downloads\\lab07\\ShopManagerMini.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KHOA\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.31\\microsoft.windowsdesktop.app.ref.8.0.31.nupkg.sha512",
+    "C:\\Users\\KHOA\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.31\\microsoft.netcore.app.ref.8.0.31.nupkg.sha512",
+    "C:\\Users\\KHOA\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.31\\microsoft.aspnetcore.app.ref.8.0.31.nupkg.sha512",
+    "C:\\Users\\KHOA\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.31\\microsoft.netcore.app.host.win-x64.8.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

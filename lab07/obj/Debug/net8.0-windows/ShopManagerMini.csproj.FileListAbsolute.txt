@@ -1,0 +1,15 @@
+C:\Users\KHOA\Downloads\lab07\bin\Debug\net8.0-windows\ShopManagerMini.exe
+C:\Users\KHOA\Downloads\lab07\bin\Debug\net8.0-windows\ShopManagerMini.deps.json
+C:\Users\KHOA\Downloads\lab07\bin\Debug\net8.0-windows\ShopManagerMini.runtimeconfig.json
+C:\Users\KHOA\Downloads\lab07\bin\Debug\net8.0-windows\ShopManagerMini.dll
+C:\Users\KHOA\Downloads\lab07\bin\Debug\net8.0-windows\ShopManagerMini.pdb
+C:\Users\KHOA\Downloads\lab07\obj\Debug\net8.0-windows\ShopManagerMini.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KHOA\Downloads\lab07\obj\Debug\net8.0-windows\ShopManagerMini.AssemblyInfoInputs.cache
+C:\Users\KHOA\Downloads\lab07\obj\Debug\net8.0-windows\ShopManagerMini.AssemblyInfo.cs
+C:\Users\KHOA\Downloads\lab07\obj\Debug\net8.0-windows\ShopManagerMini.csproj.CoreCompileInputs.cache
+C:\Users\KHOA\Downloads\lab07\obj\Debug\net8.0-windows\ShopManagerMini.dll
+C:\Users\KHOA\Downloads\lab07\obj\Debug\net8.0-windows\refint\ShopManagerMini.dll
+C:\Users\KHOA\Downloads\lab07\obj\Debug\net8.0-windows\ShopManagerMini.pdb
+C:\Users\KHOA\Downloads\lab07\obj\Debug\net8.0-windows\ShopManagerMini.genruntimeconfig.cache
+C:\Users\KHOA\Downloads\lab07\obj\Debug\net8.0-windows\ref\ShopManagerMini.dll
+C:\Users\KHOA\Downloads\lab07\obj\Debug\net8.0-windows\ShopMana.0213BCA1.Up2Date
