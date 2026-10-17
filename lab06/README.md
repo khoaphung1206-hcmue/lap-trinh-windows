@@ -66,36 +66,34 @@ Các hình ảnh minh chứng được lưu trong thư mục `images/`.
 ### 5.1. Khởi tạo giao diện và tải dữ liệu mẫu
 Ứng dụng khởi động, tự nạp dữ liệu mẫu lên `DataGridView` và hiển thị trạng thái sẵn sàng trên `StatusStrip`:
 
-![Khởi tạo giao diện](./images/menu.png)
+![Khởi tạo giao diện](./images/1.png)
 
 ### 5.2. Kiểm tra dữ liệu với `ErrorProvider`
 Khi để trống thông tin, trùng mã hoặc nhập giá trị không hợp lệ, ứng dụng hiện biểu tượng cảnh báo tại ô vi phạm và thông báo bằng `MessageBox`:
 
-![Bắt lỗi ErrorProvider](./images/error.png)
+![Bắt lỗi ErrorProvider](./images/2.png)
 
 ### 5.3. Chọn ảnh sản phẩm (`OpenFileDialog`)
 Hộp thoại chọn tệp và ảnh hiển thị trong `PictureBox`:
 
-![Chọn ảnh sản phẩm](./images/select_image1.png)
-
-![Chọn ảnh sản phẩm](./images/select_image2.png)
+![Chọn ảnh sản phẩm](./images/3.png)
 
 ### 5.4. Menu ngữ cảnh (`ContextMenuStrip`)
 Nhấn chuột phải trên một dòng của bảng để chọn nhanh Sửa, Xóa hoặc Xem chi tiết:
 
-![Menu ngữ cảnh DataGridView](./images/right_click.png)
+![Menu ngữ cảnh DataGridView](./images/4.png)
 
 ### 5.5. Tìm kiếm sản phẩm
 Nhập từ khóa mã hoặc tên (không phân biệt hoa/thường), bảng chỉ hiển thị các sản phẩm phù hợp:
 
-![Tìm kiếm sản phẩm](./images/search.png)
+![Tìm kiếm sản phẩm](./images/5.png)
 
 ### 5.6. Xác nhận trước khi xóa (`MessageBox`)
 Hộp thoại Yes/No xuất hiện trước khi xóa sản phẩm:
 
-![Xác nhận xóa bản ghi](./images/delete.png)
+![Xác nhận xóa bản ghi](./images/6.png)
 
 ### 5.7. Cập nhật `StatusStrip`
 Thanh trạng thái hiển thị thông điệp sau mỗi thao tác, số lượng sản phẩm và tổng giá trị tồn kho:
 
-![Cập nhật StatusStrip](./images/sum_product.png)
+![Cập nhật StatusStrip](./images/7.png)
