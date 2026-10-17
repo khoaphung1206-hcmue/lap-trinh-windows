@@ -82,7 +82,7 @@ Hai Form con cùng mở trong `FrmMain`:
 
 * Quản lý sản phẩm (thêm mới, cập nhật đơn giá, số lượng):
 
-  !\[Quản lý sản phẩm](images/4.png)
+  !\[Quản lý sản phẩm](./images/4.png)
 
 * Quản lý khách hàng (mã, họ tên, số điện thoại, loại khách hàng):
 
