@@ -64,19 +64,19 @@ Các hình ảnh minh chứng được lưu trong thư mục `images/`.
 
 ### 3.1. Giao diện đăng nhập (`FrmLogin`)
 
-!\[Giao diện đăng nhập](images/1.png)
+![Giao diện đăng nhập](images/1.png)
 
 ### 3.2. Form chính MDI (`FrmMain`)
 
 Các Form nghiệp vụ được mở bên trong vùng làm việc của `FrmMain`, không mở thành cửa sổ rời:
 
-!\[Kiến trúc MDI](images/2.png)
+![Kiến trúc MDI](images/2.png)
 
 ### 3.3. Quản lý sản phẩm và khách hàng
 
 Hai Form con cùng mở trong `FrmMain`:
 
-!\[QLSP và QLKH](images/3.png)
+![QLSP và QLKH](images/3.png)
 
 ### 3.4. Thêm dữ liệu
 
@@ -86,31 +86,31 @@ Hai Form con cùng mở trong `FrmMain`:
 
 * Quản lý khách hàng (mã, họ tên, số điện thoại, loại khách hàng):
 
-  !\[Quản lý khách hàng](images/5.png)
+  ![Quản lý khách hàng](images/5.png)
 
 ### 3.5. Giới thiệu ứng dụng (`FrmAbout`)
 
-!\[Thông tin giới thiệu](images/6.png)
+![Thông tin giới thiệu](images/6.png)
 
 ### 3.6. Xác nhận thoát chương trình
 
 Hộp thoại xác nhận hiển thị khi người dùng chọn Thoát hoặc đóng cửa sổ chính:
 
-!\[Xác nhận thoát chương trình](images/7.png)
+![Xác nhận thoát chương trình](images/7.png)
 
 ### 3.7. Kiểm tra dữ liệu và xử lý lỗi
 
 * Cảnh báo khi bỏ trống thông tin ở màn hình đăng nhập:
 
-  !\[Lỗi đăng nhập](images/8.png)
+  ![Lỗi đăng nhập](images/8.png)
 
 * Báo lỗi khi nhập thiếu hoặc sai dữ liệu ở Form Quản lý sản phẩm:
 
-  !\[Bắt lỗi sản phẩm](images/9.png)
+  ![Bắt lỗi sản phẩm](images/9.png)
 
 * Báo lỗi khi nhập thiếu hoặc sai dữ liệu ở Form Quản lý khách hàng:
 
-  !\[Bắt lỗi khách hàng](images/10.png)
+  ![Bắt lỗi khách hàng](images/10.png)
 
 \---
 
