@@ -52,69 +52,63 @@
 
 Thanh công cụ phía trên và vùng canvas bên dưới:
 
-!\[Khởi tạo giao diện](images/1.png)
+![Khởi tạo giao diện](images/1.png)
 
 ### 4.2. Vẽ đủ 4 loại hình
 
 Nét tự do (`Pen`), đoạn thẳng (`Line`), hình chữ nhật (`Rectangle`) và hình ellipse (`Ellipse`):
 
-!\[Vẽ đủ 4 loại hình](images/2.png)
+![Vẽ đủ 4 loại hình](images/2.png)
 
 ### 4.3. Chọn màu bằng `ColorDialog`
 
-!\[Bảng màu ColorDialog](images/3.png)
+![Bảng màu ColorDialog](images/3.png)
 
 ### 4.4. Hoàn tác (`Undo`)
 
 * Trước khi Undo:
 
-  !\[Undo trước](images/4.png)
+  ![Undo trước](images/4.png)
 
 * Sau khi Undo (nét vẽ gần nhất bị xóa):
 
-  !\[Undo sau](images/5.png)
+  ![Undo sau](images/5.png)
 
 ### 4.5. Xóa toàn bộ (`Clear`)
 
 * Trước khi xóa:
 
-  !\[Clear trước](images/6.png)
+  ![Clear trước](images/6.png)
 
 * Sau khi xóa:
 
-  !\[Clear sau](images/7.png)
+  ![Clear sau](images/7.png)
 
 ### 4.6. Tô màu hình chữ nhật / ellipse (Chức năng nâng cao)
 
 Bật `Tô màu hình` khi chọn `Rectangle` hoặc `Ellipse`:
 
-!\[Tô màu hình](images/8.png)
+![Tô màu hình](images/8.png)
 
 ### 4.7. Đổi màu nền canvas (Chức năng nâng cao)
 
-!\[Đổi màu nền canvas](images/9.png)
+![Đổi màu nền canvas](images/9.png)
 
 ### 4.8. Mở ảnh nền để vẽ đè (Chức năng nâng cao)
 
 Ảnh được căn giữa, giữ đúng tỉ lệ; các nét vẽ nằm phía trên ảnh:
 
-!\[Ảnh nền](images/10.png)
+![Ảnh nền](images/10.png)
 
 ### 4.9. Lưu bản vẽ ra file PNG (Chức năng nâng cao)
 
-!\[Lưu ảnh PNG](images/11.png)
+![Lưu ảnh PNG](images/11.png)
 
 ### 4.10. Phím tắt `Ctrl + Z` (Chức năng nâng cao)
 
 `Ctrl + Z` có tác dụng giống nút Undo:
 
-!\[Ctrl+Z trước](images/12.png)
+![Ctrl+Z trước](images/12.png)
 
-!\[Ctrl+Z sau](images/13.png)
-
-### 4.11. Hiển thị tọa độ chuột
-
-Thanh trạng thái hiển thị tọa độ con trỏ trên canvas và số nét đã vẽ:
-
-!\[Hiển thị tọa độ chuột](images/ratio.png)
+![Ctrl+Z sau](images/13.png)
 
