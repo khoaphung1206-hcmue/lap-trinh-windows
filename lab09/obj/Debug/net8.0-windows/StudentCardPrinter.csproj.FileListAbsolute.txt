@@ -1,0 +1,15 @@
+C:\Users\KHOA\Downloads\StudentCardPrinter\StudentCardPrinter\bin\Debug\net8.0-windows\StudentCardPrinter.exe
+C:\Users\KHOA\Downloads\StudentCardPrinter\StudentCardPrinter\bin\Debug\net8.0-windows\StudentCardPrinter.deps.json
+C:\Users\KHOA\Downloads\StudentCardPrinter\StudentCardPrinter\bin\Debug\net8.0-windows\StudentCardPrinter.runtimeconfig.json
+C:\Users\KHOA\Downloads\StudentCardPrinter\StudentCardPrinter\bin\Debug\net8.0-windows\StudentCardPrinter.dll
+C:\Users\KHOA\Downloads\StudentCardPrinter\StudentCardPrinter\bin\Debug\net8.0-windows\StudentCardPrinter.pdb
+C:\Users\KHOA\Downloads\StudentCardPrinter\StudentCardPrinter\obj\Debug\net8.0-windows\StudentCardPrinter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KHOA\Downloads\StudentCardPrinter\StudentCardPrinter\obj\Debug\net8.0-windows\StudentCardPrinter.AssemblyInfoInputs.cache
+C:\Users\KHOA\Downloads\StudentCardPrinter\StudentCardPrinter\obj\Debug\net8.0-windows\StudentCardPrinter.AssemblyInfo.cs
+C:\Users\KHOA\Downloads\StudentCardPrinter\StudentCardPrinter\obj\Debug\net8.0-windows\StudentCardPrinter.csproj.CoreCompileInputs.cache
+C:\Users\KHOA\Downloads\StudentCardPrinter\StudentCardPrinter\obj\Debug\net8.0-windows\StudentCardPrinter.dll
+C:\Users\KHOA\Downloads\StudentCardPrinter\StudentCardPrinter\obj\Debug\net8.0-windows\refint\StudentCardPrinter.dll
+C:\Users\KHOA\Downloads\StudentCardPrinter\StudentCardPrinter\obj\Debug\net8.0-windows\StudentCardPrinter.pdb
+C:\Users\KHOA\Downloads\StudentCardPrinter\StudentCardPrinter\obj\Debug\net8.0-windows\StudentCardPrinter.genruntimeconfig.cache
+C:\Users\KHOA\Downloads\StudentCardPrinter\StudentCardPrinter\obj\Debug\net8.0-windows\ref\StudentCardPrinter.dll
+C:\Users\KHOA\Downloads\StudentCardPrinter\StudentCardPrinter\obj\Debug\net8.0-windows\StudentC.1F354C8F.Up2Date
