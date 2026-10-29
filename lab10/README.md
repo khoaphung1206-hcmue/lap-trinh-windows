@@ -92,10 +92,6 @@ Hai câu này chạy trong `BEGIN TRANSACTION ... ROLLBACK` để xem được k
 
 ![Kiểm thử lỗi ràng buộc](images/10.png)
 
-**Bộ kiểm thử tự động (Phần F):** 14 trường hợp nhập sai (khóa ngoại, `CHECK`, khóa chính, `UNIQUE`, xóa bản ghi đang được tham chiếu...) được chạy trong `TRY...CATCH`, mỗi trường hợp so sánh mã lỗi thực tế với mã lỗi mong đợi (`547`, `2627`, `2601`). Kết quả tổng kết gồm `TongSoTest`, `SoPASS`, `SoFAIL`; khi tất cả ràng buộc hoạt động đúng thì `TongSoTest = 14`, `SoPASS = 14`, `SoFAIL = 0`. Toàn bộ chạy trong transaction và `ROLLBACK` nên dữ liệu không bị thay đổi.
-
-![Bộ test tự động](images/11.png)
-
 ---
 
 ## 4. Hướng dẫn thực thi
