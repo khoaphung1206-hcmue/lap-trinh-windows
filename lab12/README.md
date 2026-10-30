@@ -82,33 +82,33 @@ Dữ liệu được kiểm tra ở **hai lớp**: Form (báo lỗi thân thiệ
 
 * **Lớp CTK47A:**
 
-![Tải danh sách lớp A](Images/1.png)
+![Tải danh sách lớp A](images/1.png)
 
 * **Lớp CTK47B:**
 
-![Tải danh sách lớp B](Images/2.png)
+![Tải danh sách lớp B](images/2.png)
 
 ### 4.2. Cơ chế Validation và Rollback khi phát hiện lỗi
 
 Khi người dùng nhập điểm không hợp lệ (ví dụ: vượt quá khoảng 0 - 10 như `19`, `67`, âm như `-1`, hoặc để trống), hệ thống tô đỏ ô lỗi, liệt kê chi tiết trong hộp thoại cảnh báo và hủy toàn bộ thao tác lưu, tuyệt đối không ghi dữ liệu rác xuống CSDL:
 
-![Validation lỗi](Images/3.png)
+![Validation lỗi](images/3.png)
 
 ### 4.3. Lưu hàng loạt dữ liệu thành công (Commit Transaction)
 
 Trước khi nhập:
 
-![Trước khi nhập](Images/4.png)
+![Trước khi nhập](images/4.png)
 
 Sau khi chỉnh sửa điểm và ghi chú hợp lệ, nhấn **"Lưu tất cả"**, hệ thống mở transaction, cập nhật toàn bộ các dòng, commit và hiển thị thông báo số dòng đã lưu:
 
-![Sau khi nhập và lưu](Images/5.png)
+![Sau khi nhập và lưu](images/5.png)
 
 ### 4.4. Đối soát dữ liệu trực tiếp trong SQL Server (SSMS)
 
 Thực thi truy vấn `SELECT * FROM KETQUA;` trên SSMS để kiểm tra, dữ liệu điểm số và ghi chú đã được lưu bền vững, khớp với kết quả thao tác trên ứng dụng WinForms:
 
-![Database](Images/6.png)
+![Database](images/6.png)
 
 ---
 
